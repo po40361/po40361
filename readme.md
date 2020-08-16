@@ -1,4 +1,4 @@
-### Hi there. I'm Po Wei, a Third-Year CS Major at UVa 👋
+### Hi there. I'm Po Wei, a Third-Year CS Major at UVa and a Software Engineer.
 
 ## I'm passionate about solving our world's problems through the power of tech!
 - 🔭 I’m currently working on a [website for listening to Reddit][website]!
