@@ -3,7 +3,6 @@
 ## I'm passionate about solving our world's problems through the power of tech!
 - 🔭 I’m currently working on a [website for listening to Reddit][website]!
 - 🌱 I’m currently learning more about cloud technologies (AWS, Google Cloud).
-- 👯 I’m looking for 2021 summer internships! ([Feel free to reach out!][email] 😁)
 
 ### Connect with me:
 
@@ -47,5 +46,4 @@
 <img align="left" alt="po40361's Github Stats" src="https://github-readme-stats.vercel.app/api?username=po40361&show_icons=true&hide_border=true" />
 
 [website]: https://snoopods.com
-[email]: mailto:pt5rsx@virginia.edu
 [linkedin]: https://linkedin.com/in/poweitsao
