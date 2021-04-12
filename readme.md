@@ -7,7 +7,6 @@
 ### Connect with me:
 
 [<img align="left" alt="linkedin" width="30px" src="https://img.icons8.com/color/1000/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="email" width="30px" src="https://img.icons8.com/fluent/1000/000000/gmail.png" />][email]
 
 <br />
 
